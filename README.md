@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/6765089/180658205-9e5f63a7-24bd-459b-bf82-bdb226ff4448.jpg" alt="persentation banner" height="400" width="100%"/>
+
 <h1 align="center">Hi 👋, I'm Rudra Kishore G</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
